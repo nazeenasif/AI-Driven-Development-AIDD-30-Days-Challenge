@@ -1,2 +1,2 @@
-# 🌐 30 Days AI-Driven Development (AI-DD) Challenge
+# 🌐 30 Days AI-Driven Development (AIDD) Challenge
 This repository guides you through 30 days of hands-on AI-driven development tasks. Each day focuses on using AI to assist coding, testing, and automation while you practice decision-making, problem-solving, and design. By completing these tasks, you'll learn how humans and AI can work together to build faster, smarter, and more efficient software.
