@@ -13,7 +13,7 @@ In simple words, SPECKit Plus works like a smart assistant that:
 
 Overall, SPECKit Plus is a powerful tool that turns detailed specifications into reliable software, helping developers stay focused, avoid messy code, and build better applications with confidence.
 
-### 🔑 Key Concepts in SPECKit Plus (Human-Friendly Explanation)
+### 🔑 Key Concepts in SPECKit Plus
 
 #### 1️⃣ `/constitution`
 Think of this as setting the **ground rules** for your project. Just like a country has a constitution, your software also needs standards—how the code should look, what practices to follow, and what things are not allowed. This step makes sure everyone works in the same direction from the very beginning.
